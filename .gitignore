@@ -1,0 +1,5 @@
+# Ignorar completamente el directorio uploaderdata y su contenido
+uploaderdata/
+
+# Ignorar completamente el directorio uploaderhome y su contenido
+uploaderhome/
